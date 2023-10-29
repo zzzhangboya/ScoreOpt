@@ -1,6 +1,6 @@
 # Enhancing Adversarial Robustness via Score-Based Optimization
 
-This repository contains the code for the paper "Enhancing Adversarial Robustness via Score-Based Optimization" (NeurIPS 2020) in Python. 
+This repository contains the code for the paper "Enhancing Adversarial Robustness via Score-Based Optimization" (NeurIPS 2023) in Python. 
 
 
 ## Pre-train classifier models
